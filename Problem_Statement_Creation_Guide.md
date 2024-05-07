@@ -1,34 +1,28 @@
 
-# Guide to Creating a Problem Statement
+# Problem Statement Creation Guide
 
-## Overview
-This document outlines the process for creating effective problem statements across various problem and solution domains.
+## Title
+- A concise statement summarizing the problem.
 
-## Components of a Problem Statement
+## Background
+- A brief description providing the context of the problem, including key factors leading up to the issue.
 
-### 1. Context
-- **Description**: Introduce the situation or environment related to the problem.
-- **Purpose**: Set the stage for understanding the relevance and the background.
+## Problem Description
+- A detailed explanation of the problem, focusing on specific issues and their implications.
 
-### 2. Problem Description
-- **Description**: Clearly articulate the problem.
-- **Details**: Explain what the issue is, whom it affects, and under what circumstances.
+## Impact
+- A list of 3 to 5 risks, assumptions, and unknowns, addressing both current problem states and potential solutions.
+- Enumerate consequences of risk realization without grading them.
 
-### 3. Impact
-- **Risks**: List potential negative outcomes resulting from the problem.
-- **Assumptions**: Enumerate preconditions or hypotheses accepted as true.
-- **Unknowns**: Note elements that are uncertain or unclear but impact the problem or solution.
+## Stakeholders
+- A description of the views of different stakeholders regarding the problem and proposed solutions.
+- Highlight any assumptions about stakeholder views as potential risks.
+- Use this section when organizational complexity is evident, and there are stresses between the views of stakeholders.
 
-### 4. Goal
-- **Description**: Define what solving the problem looks like.
-- **Outcome**: Vision for the future state that describes the desired outcome.
+## Concept Solution
+- A preliminary solution addressing the problem, including any proposed changes or strategic directions.
+- Outline how this solution can alleviate the issues stated in the problem description.
 
-### 5. Proposed Solution (Optional)
-- **Overview**: Outline a potential solution.
-- **Scope**: Provide a broad overview rather than a detailed plan.
-
-## Usage
-This guide should be used as a framework for drafting problem statements that are clear, structured, and actionable.
-
-## Note
-- Ensure each component is thoroughly addressed to maintain clarity and effectiveness in communication.
+## Conclusion
+- A summary emphasizing the urgency and need for a solution.
+- Recommendations for next steps or further actions to be taken.
